@@ -9,3 +9,5 @@
 ## 子标题
 ![image](https://github.com/user-attachments/assets/1d685936-621d-40d5-bce4-96bb574fc57a)
 
+
+修改config文件 **[CONFIG.YML](https://github.com/yqf007/yqf007.github.io/blob/main/_config.yml)**
