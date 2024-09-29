@@ -5,7 +5,7 @@ title: TITLE
 description: DESCRIPTION
 
 #主题风格
-theme: jekyll-theme-primer
+theme: jekyll-theme-minimal
 
 #markdown增强功能
 markdown: kramdown
